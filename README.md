@@ -1,5 +1,5 @@
 # 💫 About Me:
- Full stack developer with experience in building web applications using MERN stack and PHP. Worked on
+ Full stack developer with experience in building web applications using modern javascript. Worked on
  SuiteCRM customization, task and project management tools, dashboard development, and workflow
  automation. Comfortable with both frontend and backend development. Quick to learn new technologies and
  focused on writing clean, functional code
