@@ -1,18 +1,120 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning GO<br>💬 Ask me about<br>⚡ Fun fact
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0ea5e9&height=200&section=header&text=Sahil%20Bhanushali&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Node.js%20%C2%B7%20Express%20%C2%B7%20MongoDB&descAlignY=58&descSize=18" width="100%"/>
 
-# 💻 Tech Stack:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sahilbhanushali&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Sahilbhanushali&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sahilbhanushali&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://www.linkedin.com/in/sahil-bhanushali/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:bhanushalisahil.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://sahilxdev.itsmedigital.in/">
+  <img src="https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<br/><br/>
 
----
-[![](https://komarev.com/ghpvc/?username=Sahilbhanushali&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=560&lines=Backend+developer+%E2%80%94+Node.js+%2B+Express;REST+APIs+%C2%B7+Auth+systems+%C2%B7+MongoDB+%2F+MySQL;Currently+building+for+an+NGO+%E2%80%94+donations+platform" alt="Typing SVG" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<br/>
+
+## About
+
+- 🔧 Backend developer working mainly in **Node.js / Express**, building REST APIs, auth systems, and apps backed by **MongoDB, MySQL, and PostgreSQL**
+- 🏗️ Also comfortable on the frontend with **React** and **Next.js** when a project needs it
+- 🔭 Currently building a management platform for an NGO — blood donation requests, item donations, and an online store for homemade products
+- 🌱 Currently learning **Spring Boot**
+- 📫 Reach me at **bhanushalisahil.dev@gmail.com**
+
+<br/>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 [Job Importer & Processing Pipeline](https://job-importer-system-front.onrender.com/)
+`Node.js` `Express` `MongoDB` `Redis` `Bull` `Next.js`
+
+Fetches job listings from external APIs, validates and deduplicates them by URL hash, and stores normalized data in MongoDB. Runs on a Redis-backed job queue (Bull) with retry logic and a dead-letter queue.
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 [Real-Time Chat System](https://mern-chat-app-hmny.onrender.com/)
+`Node.js` `Express` `Socket.io` `MongoDB` `JWT`
+
+Room-based WebSocket chat with Socket.io. JWT is validated on socket handshake before a connection is established. Message history is paginated using a compound MongoDB index on `(roomId, createdAt)`.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Ghar Grocer
+`React` · client project
+
+Grocery ordering platform built for a client serving local customers in Vapi. Built the React frontend and designed the database schema; backend API was built in Laravel by another developer on the project.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Society Management Software
+`Tech stack TBD`
+
+Built for a builder to manage every one of their projects from a single system — covers guard/security staff, internal staff management, and vendor management across all sites.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 QR Platform
+`Next.js` `MySQL` `Prisma`
+
+QR-based platform for generating and tracking scans — details in progress.
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 More on GitHub
+
+Check out the pinned repos below for live demos and source code.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma,react,nextjs,ts,js,redis,docker,git,postman,linux&theme=dark" />
+
+</div>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sahilbhanushali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilbhanushali&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilbhanushali&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1f2937&height=120&section=footer" width="100%"/>
+
+</div>
