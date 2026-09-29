@@ -1,50 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0ea5e9&height=200&section=header&text=Sahil%20Bhanushali&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Node.js%20Backend%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=200&section=header&text=Sahil%20Bhanushali&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Node.js%20%C2%B7%20APIs%20%C2%B7%20Queues%20%C2%B7%20Real-time&descAlignY=58&descSize=16" />
+  <img alt="Sahil Bhanushali - Backend Developer" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0ea5e9&height=200&section=header&text=Sahil%20Bhanushali&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Node.js%20%C2%B7%20APIs%20%C2%B7%20Queues%20%C2%B7%20Real-time&descAlignY=58&descSize=16" width="100%"/>
+</picture>
 
-<a href="https://www.linkedin.com/in/sahil-bhanushali/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:bhanushalisahil.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://sahilxdev.itsmedigital.in/">
-  <img src="https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=I+build+backends+that+don%27t+fall+over;REST+APIs+%C2%B7+JWT+auth+%C2%B7+WebSockets+%C2%B7+Redis+queues;Node.js+%2B+Express+%C2%B7+MongoDB+%2F+MySQL+%2F+PostgreSQL" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Backend+developer+%E2%80%94+Node.js+%2B+Express;REST+APIs+%C2%B7+JWT+auth+%C2%B7+MongoDB+%2F+MySQL+%2F+Postgres;Currently+building+a+donations+platform+for+an+NGO" alt="Typing SVG" />
+<a href="https://sahilxdev.itsmedigital.in/"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sahil-bhanushali/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:bhanushalisahil.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
-## About
+## 👋 About me
 
-- 🔧 Backend developer focused on **Node.js and Express** — REST APIs, JWT auth systems, and schemas across **MongoDB, MySQL, and PostgreSQL**
-- ⚡ Also work with real-time features (**Socket.io**) and background job queues (**Redis + Bull**)
-- 🏗️ Comfortable on the frontend with **React** and **Next.js** when a project calls for it
-- 🔭 Currently building a management platform for an NGO — blood donation requests, item donations, and an online store for homemade products
-- 📫 Reach me at **bhanushalisahil.dev@gmail.com**
+I'm a **backend developer (Node.js / Express)** based in India. I design REST APIs, auth systems, database schemas and background-job pipelines, and I'm comfortable on the frontend with React and Next.js when a project needs it.
 
-<br/>
-
-## Experience
-
-<table>
-<tr><th>Company</th><th>Role</th><th>Duration</th></tr>
-<tr><td><b>RND Technosoft</b></td><td>Software Developer</td><td>Feb 2026 – Present</td></tr>
-<tr><td><b>Freelance</b> (Ghar Grocer)</td><td>React Developer</td><td>Jun 2025 – Jan 2026</td></tr>
-<tr><td><b>itsme Dezino</b></td><td>Web Developer</td><td>Jan 2025 – Jun 2025</td></tr>
-<tr><td><b>Niket Communications and Security Systems</b></td><td>Junior Developer</td><td>Sep 2023 – Aug 2024</td></tr>
-</table>
-
-**At RND Technosoft**, I've built a QR-based tracking platform (QR tags on cars/bikes/items, with masked-call owner contact via Fonada's API), integrated Shiprocket for order/shipment tracking, built a full ERP system for a manufacturing client, and I'm currently building a donations management platform for an NGO.
+- 🏢 **Software Developer @ RND Technosoft** — shipping production systems for real clients
+- 🔭 **Building now:** a management platform for an NGO (blood-donation requests, item donations, online store for homemade products)
+- 🧠 **I care about:** reliable job processing (retries, dead-letter queues), secure auth, and schemas that stay fast as data grows
+- 🤝 **Open to:** backend roles and freelance projects → [bhanushalisahil.dev@gmail.com](mailto:bhanushalisahil.dev@gmail.com)
 
 <br/>
 
-## Featured Projects
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,socketio,redis,mongodb,mysql,postgres,prisma&perline=9" alt="Backend and databases" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,git,github,postman,linux&perline=7" alt="Frontend and tools" />
+
+</div>
+
+| Area | What I use |
+|---|---|
+| **Backend** | Node.js, Express, REST API design, JWT auth, Socket.io, Redis + Bull queues |
+| **Databases** | MongoDB, MySQL, PostgreSQL, Prisma, schema design, indexing |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
+| **Integrations** | Shiprocket (shipments), Fonada (masked calling), third-party REST APIs |
+| **Tools** | Git, GitHub, Postman, Linux |
+
+<br/>
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -53,7 +57,13 @@
 ### 🔗 [Job Importer & Processing Pipeline](https://job-importer-system-front.onrender.com/)
 `Node.js` `Express` `MongoDB` `Redis` `Bull` `Next.js`
 
-Fetches job listings from external APIs, validates and deduplicates them by URL hash, and stores normalized data in MongoDB. Runs on a Redis-backed job queue (Bull) with retry logic and a dead-letter queue for failed jobs.
+Pulls job listings from external APIs, validates and dedupes them by URL hash, and stores normalized data in MongoDB.
+
+- Redis-backed **Bull** queue with retry + backoff
+- **Dead-letter queue** for jobs that keep failing
+- Dashboard built in Next.js
+
+[🌐 Live demo](https://job-importer-system-front.onrender.com/) · [📦 Source](https://github.com/Sahilbhanushali)
 
 </td>
 <td width="50%" valign="top">
@@ -61,7 +71,30 @@ Fetches job listings from external APIs, validates and deduplicates them by URL 
 ### 💬 [Real-Time Chat System](https://mern-chat-app-hmny.onrender.com/)
 `Node.js` `Express` `Socket.io` `MongoDB` `JWT`
 
-Room-based WebSocket chat with Socket.io. JWT is validated on socket handshake before a connection is established. Message history is paginated using a compound MongoDB index on `(roomId, createdAt)`.
+Room-based WebSocket chat.
+
+- **JWT verified during the socket handshake**, before a connection is accepted
+- Paginated history using a compound index on `(roomId, createdAt)`
+
+[🌐 Live demo](https://mern-chat-app-hmny.onrender.com/) · [📦 Source](https://github.com/Sahilbhanushali)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 QR-Based Tracking Platform
+`Node.js` `REST API` `Fonada API` · *client work at RND Technosoft*
+
+QR tags for cars, bikes and personal items. Anyone who scans a tag can contact the owner through **masked calling**, so the owner's number is never exposed.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏭 ERP for a Manufacturing Client
+*client work at RND Technosoft*
+
+End-to-end ERP system built for a manufacturing business, covering their internal operations in one system.
 
 </td>
 </tr>
@@ -69,17 +102,17 @@ Room-based WebSocket chat with Socket.io. JWT is validated on socket handshake b
 <td width="50%" valign="top">
 
 ### 🛒 Ghar Grocer
-`React` · client project
+`React` · *client project*
 
-Grocery ordering platform built for a client serving local customers in Vapi. Built the React frontend and designed the database schema; backend API was built in Laravel by another developer on the project.
+Grocery ordering platform for local customers in Vapi. I built the React frontend and designed the database schema; the Laravel API was built by another developer on the team.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏢 Society Management Software
-`Tech stack TBD`
+*client project*
 
-Built for a builder to manage every one of their projects from a single system — covers guard/security staff, internal staff management, and vendor management across all sites.
+One system for a builder to run all of their projects: guard/security staff, internal staff and vendor management across every site.
 
 </td>
 </tr>
@@ -87,34 +120,33 @@ Built for a builder to manage every one of their projects from a single system �
 
 <br/>
 
-## Tech Stack
+## 💼 Experience
+
+| Company | Role | Duration |
+|---|---|---|
+| **RND Technosoft** | Software Developer | Feb 2026 – Present |
+| **Freelance** (Ghar Grocer) | React Developer | Jun 2025 – Jan 2026 |
+| **itsme Dezino** | Web Developer | Jan 2025 – Jun 2025 |
+| **Niket Communications and Security Systems** | Junior Developer | Sep 2023 – Aug 2024 |
+
+**At RND Technosoft:** built a QR tracking platform with masked-call owner contact, integrated Shiprocket for order and shipment tracking, delivered a full ERP for a manufacturing client, and am now building the NGO donations platform.
+
+<br/>
+
+## 📊 GitHub
 
 <div align="center">
 
-**Backend:** ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-**Databases:** ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white)
-
-**Frontend:** ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Tools:** ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<img src="https://github-readme-stats.vercel.app/api?username=Sahilbhanushali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilbhanushali&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
 
 </div>
 
 <br/>
 
-## GitHub Stats
+## 📫 Let's connect
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sahilbhanushali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilbhanushali&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilbhanushali&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<br/>
+Hiring for a backend role or need an API built? Email me at **bhanushalisahil.dev@gmail.com** or message me on [LinkedIn](https://www.linkedin.com/in/sahil-bhanushali/).
 
 <div align="center">
 
